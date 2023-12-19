@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Floor
+public class Day_1
 {
     static final int INVALID_FILENAME = -1;
     static final int FILE_NOT_FOUND = -2;
